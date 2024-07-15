@@ -1,3 +1,6 @@
+# code to check unused or dead code using vulture library
+
+
 import os
 import pandas as pd
 import numpy as np
