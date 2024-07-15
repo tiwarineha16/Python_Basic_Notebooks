@@ -1,34 +1,34 @@
 Welcome to the Python Notebooks Collection! This repository contains a series of Jupyter notebooks covering a wide range of Python topics, including basic functions, advanced data analysis, and practical implementations. Whether you're a beginner or an experienced developer, you'll find useful information and code examples to enhance your Python skills.
 
 Table of Contents
-Functions in Python
-Class Methods and Class Variables
-EDA on Titanic Dataset
-Matplotlib and Seaborn Libraries
-NumPy and Other Inbuilt Functions
-OOPs (Object-Oriented Programming)
-Pandas in Python
-Python Data Structures
-Set, Dictionaries, and Tuples
-Python Eval Function
-EDA on Advanced House Price Prediction
-Python Zip Function - Easy Parallel Iteration for Multiple Iterators
-PDF Password Protection Using Python
-PIP Freeze - Creating Packages (Requirements.txt) For The Application
-Logging Implementation in Python
-Secure Hash Algorithms Using Python - SHA256, SHA384, SHA224, SHA512, SHA1 - Hashing in Blockchain
-Numba Library - Let's Make Python Faster
-Shallow Copy vs Deep Copy in Python
-Exception Handling Detailed Explanation in Python
-Custom Exception Handling in Python
-Inheritance in Python
-Magic Methods in Classes
-Assert Statement in Python
-Iterators vs Generators
-Decorators In-depth Implementation
-Python Series - is vs == In-depth Explanation - Boolean Evaluation
-Beginner Level Python Projects
-Functions in Python
+1.Functions in Python
+2.Class Methods and Class Variables
+3.EDA on Titanic Dataset
+4.Matplotlib and Seaborn Libraries
+5.NumPy and Other Inbuilt Functions
+6.OOPs (Object-Oriented Programming)
+7.Pandas in Python
+8.Python Data Structures
+9.Set, Dictionaries, and Tuples
+10.Python Eval Function
+11.EDA on Advanced House Price Prediction
+12.Python Zip Function - Easy Parallel Iteration for Multiple Iterators
+13.PDF Password Protection Using Python
+14.PIP Freeze - Creating Packages (Requirements.txt) For The Application
+15.Logging Implementation in Python
+16.Secure Hash Algorithms Using Python - SHA256, SHA384, SHA224, SHA512, SHA1 - Hashing in Blockchain
+17.Numba Library - Let's Make Python Faster
+18.Shallow Copy vs Deep Copy in Python
+19.Exception Handling Detailed Explanation in Python
+20.Custom Exception Handling in Python
+21.Inheritance in Python
+22.Magic Methods in Classes
+23.Assert Statement in Python
+24.Iterators vs Generators
+25.Decorators In-depth Implementation
+26.Python Series - is vs == In-depth Explanation - Boolean Evaluation
+27.Beginner Level Python Projects
+28.Functions in Python
 This notebook covers the basics of defining and using functions in Python. It includes examples of built-in functions, user-defined functions, lambda functions, and more.
 
 Class Methods and Class Variables
